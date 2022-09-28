@@ -1,3 +1,22 @@
 # test2
 
 nouvelle modification 
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/tablet-booki.css" media=" screen and (max-width: 992px)" />
+	<link rel="stylesheet" type="text/css" href="css/smartphone-booki.css" media=" screen and (max-width: 768px)" /> 
+	<title>Ohmyfood</title>
+</head>
+<body>
+	<header>
+		<h1>Ohmyfood</h1>
+	</header>
+	
+
+</body>
+</html>
